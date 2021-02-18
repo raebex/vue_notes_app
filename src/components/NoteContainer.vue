@@ -10,7 +10,6 @@ import NoteSelectors from "./NoteSelectors";
 import NoteEditor from "./NoteEditor";
 
 export default {
-  name: "note-container",
   components: {
     NoteSelectors,
     NoteEditor,
